@@ -1,0 +1,140 @@
+.imgkunst{
+    float:left;
+    margin:5px 20px 20px 5px;
+    object-fit: cover;
+        }
+    h3{
+    text-indent:7px;
+    font-weight: 600;
+    }
+    h1{
+       margin-bottom: 20px; 
+        
+        
+    }
+   .breadcrumb a{
+    
+    color: black;
+    }
+    .content{
+        background-color: rgba(250,240,233,0.6);
+       
+        padding:15px;
+        min-height: 450px;
+        width: 90%;
+        margin: auto;
+        
+    }
+    .container .content li {
+        background-color: rgb(206, 227, 253,0.7);	
+        margin-top: 10px;
+        box-shadow: 0px 0px 5px 1px lightsteelblue;
+      }
+      .container li a{
+        text-decoration: none;
+          color: black;
+          padding:5px;
+          display:inline-block;
+      }
+      .container li div{
+        padding:5px;
+      }
+      .container ul{
+        list-style-type: none;
+        padding-left: 0;
+      }
+      .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+    
+      label{
+        width: 100%;
+    }
+    
+    .form-control.username,.form-control.passwort{
+        width: 36%;
+        
+        margin-bottom: 20px;
+        
+    }
+    @media screen and (max-width:1000px){
+        .content{
+            width: 100%;
+            
+        }
+}
+
+
+    
+    
+    @media screen and (max-width:844px){
+       
+         .form-control.username,.form-control.passwort{
+        width: 100%;
+        
+        margin-bottom: 20px;
+        
+    }
+    }
+   footer{
+background-color: peachpuff;
+padding:20px;
+
+   }
+ 
+    *{font-family: 'Courier';}
+
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+  
+    }
+        header{
+            padding:10px 0px 5px 100px;
+            
+        }
+        header img{
+            height: 100%;
+        }
+
+  body {
+  height: 100%;
+  margin: 0;
+  background-image: url("htdocs/white_wall.png");
+    }
+        
+        @media screen and (max-width:987px){
+        .nav>li>a{
+           padding-left:8px;
+            padding-right:8px;
+       
+        }
+     
+        ul:nth-child(3) > form > .form-group > input{
+            width:113px;
+        }
+        }
+           
+        @media screen and (max-width:827px){
+        .nav>li>a{
+        
+        padding-left:5px;
+            padding-right:5px;
+        }
+     
+        ul:nth-child(3) > form > .form-group > input{
+            width:83px;
+        }
+        }
+                @media screen and (max-width:767px){
+     
+        ul:nth-child(3) > form > .form-group > input{
+            width:100%;
+            
+        }
+                  
+        }
