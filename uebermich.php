@@ -180,13 +180,9 @@
 <div class="content">
    
      
-      <h1>Über mich</h1>
+      <h1>Danijela Krpic</h1>
     
-       <p>Wir von Kunstleben wollen den Nutzern einen Einblick in verschiede Kunststile geben und 
-        zeigen euch verschieden Künstler, ihre Werke und ihre jeweiligen Eigenschaften.   
-        Die Seite soll für jeden Kunst und Kunstgeschichte interessenten eine Informationsquelle sein.
-        Hier findet ihr Bilder zu den Werken, ihren Eigenschaften und die Hintergründe zum jeweiligen Werk.
-        Zusätzlich findet ihr hier auch Biorafien zu den jeweiligen Künstler.</p>
+       <p>Ich habe einen Bachelor-Abschluss der Universität Freiburg in Mikrosystemtechnik. Meine Abschlussarbeit habe ich in dem Lehrstuhl für Simulation über das Thema Einfluss der Lamellendicke auf die Messung von Oberflächenrauheit in der Transmissionselektronenmikroskopie geschrieben.</p>
         <hr>
         <div class="row">
         <div class="col-md-4 col-sm-4" >
@@ -194,7 +190,7 @@
         <hr>
         <table>
             <tr>
-                <td><i class="fa fa-home"></i></td>
+                <td><i class="fa fa-birthday-cake"></i></td>
                 <td>Geb 15.06.1988 in Pakrac</td>
                 
             </tr>
@@ -204,17 +200,17 @@
                 
             </tr>
              <tr>
-                   <td><i class="fa fa-home"></i></td>
+                   <td><i class="fa fa-envelope"></i></td>
                 <td>kdanijela88@yahoo.com</td>
                 
             </tr>
              <tr>
-                  <td><i class="fa fa-home"></i></td>
+                  <td><i class="fa fa-phone"></i></td>
                 <td>+381628348116</td>
                 
             </tr>
              <tr>
-                <td><i class="fa fa-home"></i></td>
+                <td><i class="fa fa-globe"></i></td>
                 <td><a href="https://danikrpic.com/">danikrpic.com</a></td>
                 
             </tr>
